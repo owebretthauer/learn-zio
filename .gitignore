@@ -1,0 +1,9 @@
+.DS_Store
+.bloop
+.bsp/
+.idea
+.metals
+coursier
+metals.sbt
+project/.sbt
+target
